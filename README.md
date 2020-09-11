@@ -7,3 +7,6 @@ trying this with k=2,4,8,16 : meaning : the image will be compressed with 2,4,8,
 
 <h4> Result : </h4>
 <img width="918" height="580" alt="1" src="https://user-images.githubusercontent.com/69496372/92954181-b4c97100-f46b-11ea-8db1-8eda72c17020.png">
+
+
+<img width="918" height="580" alt="Untitled" src="https://user-images.githubusercontent.com/69496372/92957342-0aece300-f471-11ea-9097-3972886fb1be.png">
